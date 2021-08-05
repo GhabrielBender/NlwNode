@@ -1,0 +1,22 @@
+# dependencies
+.vscode
+node_modules
+/.pnp
+/.idea
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+.DS_Store
+.env
+.env.development
+.env.production
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
